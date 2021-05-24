@@ -1,4 +1,13 @@
-### Hi there 👋
+<h2> 🌵Front End Developer & Designer🌵 </h2>
+
+<hr>
+Html/Css🌵JS🌵React🌵Photoshop🌵Illustrator
+<hr>
+
+<br>
+<p>🎓2021.02 Graduate HanYang University ERICA, majored in Surface Interior Design</p>
+<p>🔰2021.05 GTQi 1급</p>
+<br>
 
 <!--
 **kkevi/kkevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
