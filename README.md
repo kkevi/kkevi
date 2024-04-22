@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=000000&height=150&section=header&text=Kkevi&fontColor=D7BFF3&fontSize=70&animation=blink&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 <h3 align="center">🏃 Since 07 July 2021 ~ </h3>
-<p>This is Junior developer.</p>
   
  <br/>
  <br/>
